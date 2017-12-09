@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts title="Kontakty"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:noNamespaceSchemaLocation="seznam-software.xsd">
+    <person>
+        <name>Roman</name>
+        <surname>Gluszny</surname>
+        <email>rogls@sezna.cz</email>
+        <phone>123456789</phone>
+        <webpage>https://www.fi.muni.cz/lemma/PB029/practices/xml/#ukoly-k-procviceni</webpage>
+        <other>
+            <name>Skype</name>
+            <userId>Alkanthor</userId>
+        </other>
+        <postadress>
+            <street>Bezrucova</street>
+            <houseNumber>91</houseNumber>
+            <zipCode>73961</zipCode>
+            <city>Trinec</city>
+        </postadress>
+        <note>Student</note>
+        <note>Other note</note>
+    </person>
+   
+   
+   
+</contacts>
