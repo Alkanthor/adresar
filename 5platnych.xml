@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="contacts.xsd">
+    <person>
+        <name>Roman</name>
+        <surname>Gluszny</surname>
+        <email>romangluszny112@seznam.cz</email>
+        <phone>123456789</phone>
+        <webpage>https://github.com/</webpage>
+        <other>
+            <name>Skype</name>
+            <userId>Alkanthor112</userId>
+        </other>
+        <postadress>
+            <street>Lidicka</street>
+            <houseNumber>112</houseNumber>
+            <zipCode>73961</zipCode>
+            <city>Třinec</city>
+        </postadress>
+        <note>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. 
+            
+            Pellentesque pretium lectus id turpis. Nulla quis diam. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. 
+            
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+        </note>
+        <note>
+            Anotther note
+        </note>
+    </person>
+    
+    <person>
+        <name>Jon</name>
+        <surname>Doe</surname>
+        <email>rea1JonDoe@seznam.cz</email>
+        <phone>548751258</phone>
+        <postadress>
+            <street>Nové Sady</street>
+            <houseNumber>1</houseNumber>
+            <zipCode>12589</zipCode>
+            <city>Brno</city>
+        </postadress>
+        <note>
+            This is Jon Doe
+        </note>
+    </person>  
+    
+    <person>
+        <name>Mr</name>
+        <surname>Anonymous</surname>
+        <email>fakeemail@email.cz</email>
+    </person>  
+    
+    <person>
+        <name>Alexandra</name>
+        <surname>Belle</surname>
+        <phone>123456789</phone>
+        <phone>987654321</phone>
+        <phone>852741963</phone>
+        <webpage>https://github.com/</webpage>
+        <webpage>https://www.fi.muni.cz/lemma/PB029/finalwork/</webpage>
+        <other>
+            <name>Facebook</name>
+            <userId>AlexandraBelle</userId>
+        </other>
+    </person>
+    
+     <person>
+        <name>Homer</name>
+        <surname>Simpson</surname>
+        <email>maxPowerXXX@gmail.com</email>
+        <other>
+            <name>Skype</name>
+            <userId>H-Simpson</userId>
+        </other>
+        <postadress>
+            <street>Evergreen</street>
+            <houseNumber>742</houseNumber>
+            <zipCode>123654</zipCode>
+            <city>Springfield</city>
+        </postadress>
+        
+         <postadress>
+            <street>Everblue</street>
+            <houseNumber>11</houseNumber>
+            <zipCode>123655</zipCode>
+            <city>Shelbyville</city>
+        </postadress>
+        <note>
+           Nuclear Powerplant employee
+        </note>
+    </person>
+</contacts>
