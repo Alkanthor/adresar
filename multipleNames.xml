@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="contacts.xsd">
+    <person>
+        <name>Roman</name>
+        <name>Jiří</name>
+        <surname>Gluszny</surname>
+        <email>romangluszny112@seznam.cz</email>
+        <phone>123456789</phone>
+        <webpage>https://github.com/</webpage>
+        <other>
+            <name>Skype</name>
+            <userId>Alkanthor112</userId>
+        </other>
+        <postadress>
+            <street>Lidicka</street>
+            <houseNumber>112</houseNumber>
+            <zipCode>73961</zipCode>
+            <city>Třinec</city>
+        </postadress>
+        <note>
+            Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Cras elementum. 
+            
+            Pellentesque pretium lectus id turpis. Nulla quis diam. In laoreet, magna id viverra tincidunt, sem odio bibendum justo, vel imperdiet sapien wisi sed libero. 
+            
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
+        </note>
+        <note>
+            Anotther note
+        </note>
+    </person>
+</contacts>
